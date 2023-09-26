@@ -1,3 +1,3 @@
 module github.com/kkrypt0nn/aoc
 
-go 1.21.1
+go 1.18
